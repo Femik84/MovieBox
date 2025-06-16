@@ -9,7 +9,7 @@ import img4 from "./assets/image/4.png";
 import img5 from "./assets/image/5.png";
 import img6 from "./assets/image/6.png";
 import searchIcon from "./assets/image/search.png";
-import squidGameVideo from "./assets/video/squid-game.mp4";
+import squidGameVideo from "./assets/video/squidgame.mp4";
 
 const movies = [
   {
